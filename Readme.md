@@ -18,7 +18,6 @@ A modern and responsive Password Generator built using **HTML**, **CSS**, and **
 
 ![Password Generator Preview](https://password-generator-beta-seven-90.vercel.app/)
 
-<!-- > *You can also [view a live demo](#) if deployed on GitHub Pages or another platform.* -->
 
 ## 📁 Project Structure
 
